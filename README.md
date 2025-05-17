@@ -14,7 +14,7 @@
       </p>
       <div align="center">
         <div style="margin-bottom:0.5em;">🩸 Interests vary by alter. Some shared interests are: Dead by Daylight, horror in general, video games, etc., but not everyone here cares about them.</div>
-        <div style="margin-bottom:0.5em;">🩸 <b>We are not our sources</b>, so don't treat us like it.</div>
+        <div style="margin-bottom:0.5em;">🩸 <b>We are not our sources</b>, so don't treat us like we are.</div>
         <div>🩸 Check out our Rentry (linked on the sidebar) for more info.</div>
       </div>
       <br>
