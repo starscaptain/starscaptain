@@ -20,9 +20,9 @@
       <br>
       <hr>
       <h2>🌟 Common Fronters 🌟</h2>
-      <p><i>(Currently placeholders, will update later.)</i></p>
-      <img src="https://placehold.co/64x64?text=W" width="64" height="64" alt="Wesker" title="Wesker">
-      <img src="https://placehold.co/64x64?text=J" width="64" height="64" alt="Jim" title="Jim">
+      <p><i>(Currently unfinished, will update later.)</i></p>
+      <img src="https://i.ibb.co/bGDDgnB/Screenshot-2025-05-17-at-18-17-56-Screenshot-by-Lightshot.png" width="64" height="64" alt="Wesker" title="Wesker">
+      <img src="https://i.ibb.co/3542GjPV/Screenshot-145.png" width="64" height="64" alt="Jim" title="Jim">
     </td>
     <!-- Right image -->
     <td align="center" width="220">
