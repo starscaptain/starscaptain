@@ -1,4 +1,4 @@
-<h1><p align="center">About Me</p></h1>
+<h1><p align="center">The Silent System</p></h1>
 
 <!-- Replace the avatar link with your GitHub avatar URL (keep width/height 120 for consistency) -->
 <p align="center">
@@ -7,10 +7,10 @@
 
 ## 👋 Hi, we're the **The Silent System**
 
-Lorem ipsum 
-- 🔭 Lorem ipsum 
-- 🌱 Lorem ipsum 
-- 💬 Lorem ipsum 
+Most common fronters are <b>Wesker</b> & <b>Jim</b>. We've got around 40 members so you're bound to meet others if you're around us a lot. 
+- 🔭 Interests vary by alter. Some shared interests are: Dead by Daylight, horror in general, video games, etc. - but not everyone here cares about them.
+- 🌱 We are not our sources, so don't treat us like it. 
+- 💬 Check out our Rentry (linked on the sidebar) for more info.
 ---
 
 ### 🚀 Tech Toolbox
@@ -20,5 +20,4 @@ Lorem ipsum
 
 ### 🌍 Find Me Elsewhere
 ---
-
-<p align="center">© 2025 Your Name – Built with ❤️ & a dash of caffeine</p>
+WIP
