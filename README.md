@@ -8,7 +8,7 @@
 ## 👋 Hi, we're the **The Silent System**
 
 Most common fronters are <b>Wesker</b> & <b>Jim</b>. We've got around 40 members so you're bound to meet others if you're around us a lot. 
-- 🩸 Interests vary by alter. Some shared interests are: Dead by Daylight, horror in general, video games, etc. - but not everyone here cares about them.
+- 🩸 Interests vary by alter. Some shared interests are: Dead by Daylight, horror in general, video games, etc., but not everyone here cares about them.
 - 🩸 We are not our sources, so don't treat us like it. 
 - 🩸 Check out our Rentry (linked on the sidebar) for more info.
 ---
