@@ -21,7 +21,7 @@
       <hr>
       <h2>🌟 Common Fronters 🌟</h2>
       <p><i>(Currently unfinished, will update later.)</i></p>
-      <img src="https://i.ibb.co/bGDDgnB/Screenshot-2025-05-17-at-18-17-56-Screenshot-by-Lightshot.png" width="64" height="64" alt="Wesker" title="Wesker">
+      <img src="https://at-cdn-s02.audiotool.com/2019/05/01/documents/h51blxu9qu/1/cover256x256-5c420dedec8c4704abef4cebf6d79027.jpg" width="64" height="64" alt="Wesker" title="Wesker">
       <img src="https://i.ibb.co/3542GjPV/Screenshot-145.png" width="64" height="64" alt="Jim" title="Jim">
     </td>
     <!-- Right image -->
